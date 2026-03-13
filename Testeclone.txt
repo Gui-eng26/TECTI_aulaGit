@@ -1,0 +1,121 @@
+Last login: Fri Mar 13 12:06:12 on ttys000
+guilhermesilveira@MacBook-Air-de-Guilherme-3 ~ % cd documents
+guilhermesilveira@MacBook-Air-de-Guilherme-3 documents % ls    
+Agile Learning							GitHub								Teste_subir_arquivo
+Autodesenvolvimento						Historico p1.jpeg						github-recovery-codes.txt
+Early Stage							Missão New Job							teste13.03
+Exames Médicos							PUC_1_sem
+GILBERTO AUGUSTO DA SILVA JUNIOR LTDA:65290318000108.pfx	SPARK
+guilhermesilveira@MacBook-Air-de-Guilherme-3 documents % cd GitHub
+guilhermesilveira@MacBook-Air-de-Guilherme-3 GitHub % ls
+ES-PI1-2026-T1-G07	meu_repositorio_teste
+guilhermesilveira@MacBook-Air-de-Guilherme-3 GitHub % cd..
+zsh: command not found: cd..
+guilhermesilveira@MacBook-Air-de-Guilherme-3 GitHub % cd ..
+guilhermesilveira@MacBook-Air-de-Guilherme-3 documents % PUC_1_sem
+zsh: command not found: PUC_1_sem
+guilhermesilveira@MacBook-Air-de-Guilherme-3 documents % ls
+Agile Learning							GitHub								Teste_subir_arquivo
+Autodesenvolvimento						Historico p1.jpeg						github-recovery-codes.txt
+Early Stage							Missão New Job							teste13.03
+Exames Médicos							PUC_1_sem
+GILBERTO AUGUSTO DA SILVA JUNIOR LTDA:65290318000108.pfx	SPARK
+guilhermesilveira@MacBook-Air-de-Guilherme-3 documents % cd PUC_1_sem
+guilhermesilveira@MacBook-Air-de-Guilherme-3 PUC_1_sem % ls
+Exercícios Scilab	GitHub			Programação
+guilhermesilveira@MacBook-Air-de-Guilherme-3 PUC_1_sem % cd GitHub
+guilhermesilveira@MacBook-Air-de-Guilherme-3 GitHub % ls
+TECTI_aulaGit		Teste_subir_arquivo
+guilhermesilveira@MacBook-Air-de-Guilherme-3 GitHub % TECTI_aulaGit
+zsh: command not found: TECTI_aulaGit
+guilhermesilveira@MacBook-Air-de-Guilherme-3 GitHub % cd TECTI_aulaGit
+guilhermesilveira@MacBook-Air-de-Guilherme-3 TECTI_aulaGit % ls
+LICENSE		README.md	clonar.git	teste13.03	teste13.03.txt
+guilhermesilveira@MacBook-Air-de-Guilherme-3 TECTI_aulaGit % rm -i teste13.3.txt
+rm: teste13.3.txt: No such file or directory
+guilhermesilveira@MacBook-Air-de-Guilherme-3 TECTI_aulaGit % rm -i teste13.03.txt
+remove teste13.03.txt? y
+guilhermesilveira@MacBook-Air-de-Guilherme-3 TECTI_aulaGit % ls
+LICENSE		README.md	clonar.git	teste13.03
+guilhermesilveira@MacBook-Air-de-Guilherme-3 TECTI_aulaGit % cat teste13.03
+mais uma vez testando salvar arquivo
+guilhermesilveira@MacBook-Air-de-Guilherme-3 TECTI_aulaGit % git add teste13.03
+fatal: .git/index: unable to map index file: Operation timed out
+guilhermesilveira@MacBook-Air-de-Guilherme-3 TECTI_aulaGit % nano
+guilhermesilveira@MacBook-Air-de-Guilherme-3 TECTI_aulaGit % ls
+LICENSE		README.md	clonar.git	teste13.03	teste2
+guilhermesilveira@MacBook-Air-de-Guilherme-3 TECTI_aulaGit % cat teste2
+versao teste 2
+
+guilhermesilveira@MacBook-Air-de-Guilherme-3 TECTI_aulaGit % git add teste2
+fatal: .git/index: unable to map index file: Operation timed out
+guilhermesilveira@MacBook-Air-de-Guilherme-3 TECTI_aulaGit % nano
+guilhermesilveira@MacBook-Air-de-Guilherme-3 TECTI_aulaGit % ls
+LICENSE		README.md	clonar.git	teste13.03	teste2		teste3.txt
+guilhermesilveira@MacBook-Air-de-Guilherme-3 TECTI_aulaGit % git add teste3.txt
+fatal: .git/index: unable to map index file: Operation timed out
+guilhermesilveira@MacBook-Air-de-Guilherme-3 TECTI_aulaGit % ~
+zsh: permission denied: /Users/guilhermesilveira
+guilhermesilveira@MacBook-Air-de-Guilherme-3 TECTI_aulaGit % cd
+guilhermesilveira@MacBook-Air-de-Guilherme-3 ~ % ls
+Applications	Desktop		Documents	Downloads	GitHub		Library		Movies		Music		OneDrive	Pictures	Public
+guilhermesilveira@MacBook-Air-de-Guilherme-3 ~ % cd GitHub
+guilhermesilveira@MacBook-Air-de-Guilherme-3 GitHub % ls
+TECTI_aulaGit		Teste GitHub 25.02
+guilhermesilveira@MacBook-Air-de-Guilherme-3 GitHub % cd TECTI_aulaGit
+guilhermesilveira@MacBook-Air-de-Guilherme-3 TECTI_aulaGit % ls
+LICENSE		README.md	clonar.git
+guilhermesilveira@MacBook-Air-de-Guilherme-3 TECTI_aulaGit % nano
+
+  UW PICO 5.09                                                                                      New Buffer                                                                                       Modified  
+
+vamos para o teste com outro local do repositorio clonado
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^G Get Help                       ^O WriteOut                       ^R Read File                      ^Y Prev Pg                        ^K Cut Text                       ^C Cur Pos                        
+^X Exit                           ^J Justify                        ^W Where is                       ^V Next Pg                        ^U UnCut Text                     ^T To Spell                       
